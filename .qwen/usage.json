@@ -1,0 +1,206 @@
+{
+  "2026-08-14": {
+    "xx.watadragon.xx8+2@gmail.com": {
+      "qwen3-7-max": {
+        "requests": 1,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      },
+      "qwen3.8-max": {
+        "requests": 8,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+3@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 2,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+4@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 10,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+1@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 9,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    }
+  },
+  "2026-08-15": {
+    "xx.watadragon.xx8+1@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 86,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+4@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 86,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+2@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 41,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+3@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 90,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    }
+  },
+  "2026-08-16": {
+    "xx.watadragon.xx8+2@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 93,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+3@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 120,
+        "rateLimited": 3,
+        "lastWaitHours": 15
+      },
+      "_walls": [
+        {
+          "at": 1786828905626,
+          "model": "qwen3.8-max",
+          "waitHours": 3,
+          "total": 29,
+          "perModel": {
+            "qwen3.8-max": 29
+          }
+        },
+        {
+          "at": 1786836681170,
+          "model": "qwen3.8-max",
+          "waitHours": 29,
+          "total": 30,
+          "perModel": {
+            "qwen3.8-max": 30
+          }
+        },
+        {
+          "at": 1786872030968,
+          "model": "qwen3.8-max",
+          "waitHours": 15,
+          "total": 120,
+          "perModel": {
+            "qwen3.8-max": 120
+          }
+        }
+      ]
+    },
+    "xx.watadragon.xx8+4@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 86,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+1@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 81,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+5@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 79,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+6@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 98,
+        "rateLimited": 4,
+        "lastWaitHours": 15
+      },
+      "_walls": [
+        {
+          "at": 1786858720047,
+          "model": "qwen3.8-max",
+          "waitHours": 19,
+          "total": 95,
+          "perModel": {
+            "qwen3.8-max": 95
+          }
+        },
+        {
+          "at": 1786870220774,
+          "model": "qwen3.8-max",
+          "waitHours": 16,
+          "total": 96,
+          "perModel": {
+            "qwen3.8-max": 96
+          }
+        },
+        {
+          "at": 1786871308044,
+          "model": "qwen3.8-max",
+          "waitHours": 15,
+          "total": 97,
+          "perModel": {
+            "qwen3.8-max": 97
+          }
+        },
+        {
+          "at": 1786874235211,
+          "model": "qwen3.8-max",
+          "waitHours": 15,
+          "total": 98,
+          "perModel": {
+            "qwen3.8-max": 98
+          }
+        }
+      ]
+    },
+    "xx.watadragon.xx8+7@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 62,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+8@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 63,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+9@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 60,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    },
+    "xx.watadragon.xx8+10@gmail.com": {
+      "qwen3.8-max": {
+        "requests": 46,
+        "rateLimited": 0,
+        "lastWaitHours": null
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+2026/08/16-15:19:55.304 5a20 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_2_gmail_com\Default\Local Storage\leveldb since it was missing.
+2026/08/16-15:19:55.398 5a20 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_2_gmail_com\Default\Local Storage\leveldb/MANIFEST-000001
+2026/08/16-15:20:55.433 3554 Level-0 table #5: started
+2026/08/16-15:20:55.439 3554 Level-0 table #5: 137676 bytes OK
+2026/08/16-15:20:55.442 3554 Delete type=0 #3

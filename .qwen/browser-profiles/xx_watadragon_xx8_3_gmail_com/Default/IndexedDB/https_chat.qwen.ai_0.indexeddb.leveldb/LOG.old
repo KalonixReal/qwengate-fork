@@ -1,0 +1,16 @@
+2026/08/16-15:19:52.285 4420 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_3_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb since it was missing.
+2026/08/16-15:19:52.295 4420 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_3_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/16-15:19:58.989 4f0 Level-0 table #5: started
+2026/08/16-15:19:59.003 4f0 Level-0 table #5: 234538 bytes OK
+2026/08/16-15:19:59.007 4f0 Delete type=0 #3
+2026/08/16-15:19:59.368 4420 Level-0 table #7: started
+2026/08/16-15:19:59.377 4420 Level-0 table #7: 199699 bytes OK
+2026/08/16-15:19:59.384 4420 Delete type=0 #4
+2026/08/16-15:19:59.385 4420 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/16-15:19:59.386 4420 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 1697 : 1
+2026/08/16-15:19:59.386 4420 Compacting 1@1 + 1@2 files
+2026/08/16-15:19:59.405 4420 Generated table #8@1: 19 keys, 537 bytes
+2026/08/16-15:19:59.405 4420 Compacted 1@1 + 1@2 files => 537 bytes
+2026/08/16-15:19:59.407 4420 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/08/16-15:19:59.408 4420 Delete type=2 #7
+2026/08/16-15:19:59.409 4420 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 1697 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
