@@ -1,2 +1,3 @@
-2026/08/16-20:09:42.852 4264 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_7_gmail_com\Default\shared_proto_db\metadata since it was missing.
-2026/08/16-20:09:42.863 4264 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_7_gmail_com\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/17-07:07:52.609 68a0 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_7_gmail_com\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/08/17-07:07:52.609 68a0 Recovering log #3
+2026/08/17-07:07:52.610 68a0 Reusing old log C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_7_gmail_com\Default\shared_proto_db\metadata/000003.log 

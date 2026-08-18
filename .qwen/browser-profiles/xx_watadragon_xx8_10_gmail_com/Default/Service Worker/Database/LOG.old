@@ -1,2 +1,3 @@
-2026/08/16-20:09:50.033 6ca4 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_10_gmail_com\Default\Service Worker\Database since it was missing.
-2026/08/16-20:09:50.049 6ca4 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_10_gmail_com\Default\Service Worker\Database/MANIFEST-000001
+2026/08/17-07:07:59.385 7e80 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_10_gmail_com\Default\Service Worker\Database/MANIFEST-000001
+2026/08/17-07:07:59.386 7e80 Recovering log #3
+2026/08/17-07:07:59.387 7e80 Reusing old log C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_10_gmail_com\Default\Service Worker\Database/000003.log 

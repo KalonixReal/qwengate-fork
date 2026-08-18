@@ -1,0 +1,23 @@
+2026/08/17-07:07:22.537 74dc Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/17-07:07:22.537 74dc Recovering log #6
+2026/08/17-07:07:22.538 74dc Reusing old log C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/000006.log 
+2026/08/17-07:07:22.538 74dc Delete type=2 #5
+2026/08/17-07:07:27.024 74dc Level-0 table #11: started
+2026/08/17-07:07:27.032 74dc Level-0 table #11: 234028 bytes OK
+2026/08/17-07:07:27.034 74dc Delete type=0 #6
+2026/08/17-07:07:27.124 6fa8 Level-0 table #13: started
+2026/08/17-07:07:27.131 6fa8 Level-0 table #13: 234225 bytes OK
+2026/08/17-07:07:27.133 6fa8 Delete type=0 #10
+2026/08/17-07:07:27.231 6fa8 Level-0 table #15: started
+2026/08/17-07:07:27.239 6fa8 Level-0 table #15: 234507 bytes OK
+2026/08/17-07:07:27.241 6fa8 Delete type=0 #12
+2026/08/17-07:07:27.318 74dc Level-0 table #17: started
+2026/08/17-07:07:27.321 74dc Level-0 table #17: 177589 bytes OK
+2026/08/17-07:07:27.323 74dc Delete type=0 #14
+2026/08/17-07:07:27.324 74dc Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 6283 : 1
+2026/08/17-07:07:27.324 74dc Compacting 3@0 + 1@1 files
+2026/08/17-07:07:27.337 74dc Generated table #18@0: 1940 keys, 17194 bytes
+2026/08/17-07:07:27.337 74dc Compacted 3@0 + 1@1 files => 17194 bytes
+2026/08/17-07:07:27.338 74dc compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/17-07:07:27.338 74dc Delete type=2 #17
+2026/08/17-07:07:27.338 74dc Manual compaction at level-0 from '\x00\x03\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 6283 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

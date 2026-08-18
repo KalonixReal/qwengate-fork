@@ -1,16 +1,38 @@
-2026/08/16-15:19:56.296 2fb8 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb since it was missing.
-2026/08/16-15:19:56.310 2fb8 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/MANIFEST-000001
-2026/08/16-15:20:08.954 1984 Level-0 table #5: started
-2026/08/16-15:20:09.055 1984 Level-0 table #5: 234538 bytes OK
-2026/08/16-15:20:09.089 1984 Delete type=0 #3
-2026/08/16-15:20:14.307 1984 Level-0 table #7: started
-2026/08/16-15:20:14.334 1984 Level-0 table #7: 199701 bytes OK
-2026/08/16-15:20:14.338 1984 Delete type=0 #4
-2026/08/16-15:20:14.444 1984 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
-2026/08/16-15:20:14.556 5a40 Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 1697 : 1
-2026/08/16-15:20:14.557 5a40 Compacting 1@1 + 1@2 files
-2026/08/16-15:20:14.613 5a40 Generated table #8@1: 19 keys, 537 bytes
-2026/08/16-15:20:14.613 5a40 Compacted 1@1 + 1@2 files => 537 bytes
-2026/08/16-15:20:14.615 5a40 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/08/16-15:20:14.616 5a40 Delete type=2 #7
-2026/08/16-15:20:14.624 5a40 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00,@' @ 1697 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/17-07:15:08.277 441c Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/08/17-07:15:08.278 441c Recovering log #16
+2026/08/17-07:15:08.279 441c Reusing old log C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\IndexedDB\https_chat.qwen.ai_0.indexeddb.leveldb/000016.log 
+2026/08/17-07:15:08.280 441c Delete type=2 #11
+2026/08/17-07:15:08.280 441c Delete type=2 #13
+2026/08/17-07:15:08.280 441c Delete type=2 #15
+2026/08/17-07:15:11.865 7ed0 Level-0 table #21: started
+2026/08/17-07:15:11.871 7ed0 Level-0 table #21: 233943 bytes OK
+2026/08/17-07:15:11.872 7ed0 Delete type=0 #16
+2026/08/17-07:15:11.953 7ed0 Level-0 table #23: started
+2026/08/17-07:15:11.962 7ed0 Level-0 table #23: 234220 bytes OK
+2026/08/17-07:15:11.964 7ed0 Delete type=0 #20
+2026/08/17-07:15:12.043 7ed0 Level-0 table #25: started
+2026/08/17-07:15:12.050 7ed0 Level-0 table #25: 234523 bytes OK
+2026/08/17-07:15:12.052 7ed0 Delete type=0 #22
+2026/08/17-07:15:12.122 83d0 Level-0 table #27: started
+2026/08/17-07:15:12.126 83d0 Level-0 table #27: 177595 bytes OK
+2026/08/17-07:15:12.127 83d0 Delete type=0 #24
+2026/08/17-07:15:12.128 83d0 Compacting 4@0 + 1@1 files
+2026/08/17-07:15:12.140 83d0 Generated table #28@0: 1941 keys, 17172 bytes
+2026/08/17-07:15:12.140 83d0 Compacted 4@0 + 1@1 files => 17172 bytes
+2026/08/17-07:15:12.141 83d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/17-07:15:12.141 83d0 Delete type=2 #27
+2026/08/17-07:15:12.142 83d0 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/08/17-07:15:16.484 5ee8 Level-0 table #30: started
+2026/08/17-07:15:16.487 5ee8 Level-0 table #30: 1071 bytes OK
+2026/08/17-07:15:16.488 5ee8 Delete type=2 #18
+2026/08/17-07:15:16.488 5ee8 Delete type=2 #21
+2026/08/17-07:15:16.488 5ee8 Delete type=2 #23
+2026/08/17-07:15:16.488 5ee8 Delete type=2 #25
+2026/08/17-07:15:16.488 5ee8 Delete type=0 #26
+2026/08/17-07:15:16.491 83d0 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\xc8\x04\x00d\x00a\x00t\x00a' @ 14742 : 1
+2026/08/17-07:15:16.491 83d0 Compacting 1@0 + 1@1 files
+2026/08/17-07:15:16.494 83d0 Generated table #31@0: 1958 keys, 17416 bytes
+2026/08/17-07:15:16.494 83d0 Compacted 1@0 + 1@1 files => 17416 bytes
+2026/08/17-07:15:16.495 83d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/08/17-07:15:16.496 83d0 Delete type=2 #30
+2026/08/17-07:15:16.497 83d0 Manual compaction at level-0 from '\x00\x05\x00\x00\xc8\x04\x00d\x00a\x00t\x00a' @ 14742 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

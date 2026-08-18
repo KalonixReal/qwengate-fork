@@ -1,2 +1,3 @@
-2026/08/16-15:19:53.613 2fb8 Creating DB C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\Sync Data\LevelDB since it was missing.
-2026/08/16-15:19:53.629 2fb8 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/17-07:15:06.767 83d0 Reusing MANIFEST C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/08/17-07:15:06.767 83d0 Recovering log #3
+2026/08/17-07:15:06.768 83d0 Reusing old log C:\Users\test\qwen-gate-dev\.qwen\browser-profiles\xx_watadragon_xx8_1_gmail_com\Default\Sync Data\LevelDB/000003.log 
